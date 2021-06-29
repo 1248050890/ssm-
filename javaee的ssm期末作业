@@ -1,3 +1,4 @@
+author:lhr
 Spring
 Spring 是一个轻量级的企业级应用开发框架，于2004年由 Rod Johnson 发布了1.0 版本，经过多年的更新迭代，已经逐渐成为 Java 开源世界的第一框架，Spring 框架号称 Java EE 应用的一站式解决方案，与各个优秀的 MVC 框架如 SpringMVC、Struts2、JSF 等可以无缝整合，与各个 ORM 框架如 Hibernate、MyBatis、JPA 等也可以无缝衔接，其他各种技术也因为 Spring 的存在而被很容易地整合进项目开发之中，如 Redis 整合、Log4J 整合、ElasticSearch 整合、RabbitMQ 整合、Quartz 整合、Thymeleaf 整合等等，只要你开发中需要使用到的技术，Spring 都提供了极好的封装和整合体验，这也是为何 Spring 生命力如此强大的原因，暂时还没有能够替代 Spring 的框架出现。
 Spring 框架有如下优点：
